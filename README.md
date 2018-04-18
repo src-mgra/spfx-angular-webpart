@@ -1,6 +1,8 @@
 ## angular-2-app
 
-This is where you include your WebPart documentation.
+SPFx angular2 webpart implemented in typescript
+
+refer to: https://www.fmtconsultants.com/sharepoint-framework-spfx-angular2/
 
 ### Building the code
 
